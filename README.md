@@ -1,2 +1,2 @@
 # Angular-projekt-samolot
-Projekt samolotu
+Projekt aplikaji-samolot
